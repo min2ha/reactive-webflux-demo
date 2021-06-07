@@ -1,5 +1,5 @@
 # reactive-webflux-demo
 
-spring-boot
-webflux weblient
-postgresql
+* spring-boot
+* webflux webclient
+* postgresql
